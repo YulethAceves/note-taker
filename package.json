@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "note-taker",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YulethAceves/note-taker.git"
+  },
+  "author": "YulethAceves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YulethAceves/note-taker/issues"
+  },
+  "homepage": "https://github.com/YulethAceves/note-taker#readme",
+  "keywords": []
+}
