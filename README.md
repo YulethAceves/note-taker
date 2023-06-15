@@ -34,9 +34,9 @@ Check out the deployed app here: [Note Taker]()
 
 ### Screenshots
 
-![screenshot]()
-![screenshot]()
+![screenshot](./public/assets/images/Screenshot%202023-06-14%20at%2018.19.43.png)
+![screenshot](./public/assets/images/Screenshot%202023-06-14%20at%2018.19.50.png)
 
 ### Contact
 
-[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+[Yuleth Aceves Github](https://github.com/YulethAceves)
